@@ -1,0 +1,292 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\santi\OneDrive\Documentos\PCB_Design\Proyecto0\Proyecto0\Proyecto_0 - V2.PcbDoc
+Date     : 2/11/2024
+Time     : 18:34:26
+
+WARNING: Zero hole size multi-layer pad(s) detected
+   Pad Free-F(236.22mil,1653.543mil) on Multi-Layer on Net GND
+
+WARNING: Multilayer Pads with 0 size Hole found
+   Pad Free-F(236.22mil,1653.543mil) on Multi-Layer
+   Pad Free-F(2440.945mil,1528.11mil) on Multi-Layer
+   Pad Free-F(2440.945mil,243.543mil) on Multi-Layer
+   Pad Free-F(243.543mil,118.11mil) on Multi-Layer
+
+Processing Rule : Matched Lengths(Tolerance=400mil) (InNet('L13_P'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=400mil) (InNet('L16_P'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=400mil) (InNet('L16_N'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=400mil) (InNet('L23_P'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=400mil) (InNet('AD7_P'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=400mil) (InNet('L12_N'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=400mil) (InNet('AD5_P'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=400mil) (InNet('AD5_N'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=400mil) (InNet('L22_N'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=400mil) (InNet('L14_N'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=400mil) (InNet('L18_N'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=400mil) (InNet('AD6_N'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=400mil) (InNet('L24_N'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=400mil) (InNet('L20_N'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=400mil) (InNet('AD6_P'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=400mil) (InNet('L20_P'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=400mil) (InNet('L18_P'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=400mil) (InNet('AD7_N'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=400mil) (InNet('L6_N'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=400mil) (InNet('L17_P'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=400mil) (InNet('AD4_P'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=400mil) (InNet('L6_P'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=400mil) (InNet('L11_P'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=400mil) (InNet('L4_P'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=400mil) (InNet('L4_N'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=400mil) (InNet('AD12_P'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=400mil) (InNet('AD12_N'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=400mil) (InNet('L21_P'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=400mil) (InNet('L17_N'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=400mil) (InNet('L11_N'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=400mil) (InNet('AD13_P'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=400mil) (InNet('L24_P'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=400mil) (InNet('L15_P'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=400mil) (InNet('AD4_N'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=400mil) (InNet('L14_P'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=400mil) (InNet('L19_P'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=400mil) (InNet('L13_N'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=400mil) (InNet('AD13_N'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=400mil) (InNet('AD14_P'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=400mil) (InNetClass('FPGA_CONFIG_SIGNALS'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=400mil) (InNetClass('FPGA_BANK34'))
+   Violation between Matched Net Lengths: Between Net L4 And Net P5 Length:628.447mil is not within 400mil tolerance of Length:1585.471mil (557.024mil short) 
+   Violation between Matched Net Lengths: Between Net M1 And Net P5 Length:907.975mil is not within 400mil tolerance of Length:1585.471mil (277.497mil short) 
+   Violation between Matched Net Lengths: Between Net M2 And Net P5 Length:848.92mil is not within 400mil tolerance of Length:1585.471mil (336.552mil short) 
+   Violation between Matched Net Lengths: Between Net M4 And Net P5 Length:608.762mil is not within 400mil tolerance of Length:1585.471mil (576.709mil short) 
+   Violation between Matched Net Lengths: Between Net N1 And Net P5 Length:907.975mil is not within 400mil tolerance of Length:1585.471mil (277.497mil short) 
+   Violation between Matched Net Lengths: Between Net N2 And Net P5 Length:707.188mil is not within 400mil tolerance of Length:1585.471mil (478.284mil short) 
+   Violation between Matched Net Lengths: Between Net N3 And Net P5 Length:648.132mil is not within 400mil tolerance of Length:1585.471mil (537.339mil short) 
+   Violation between Matched Net Lengths: Between Net N4 And Net P5 Length:868.605mil is not within 400mil tolerance of Length:1585.471mil (316.866mil short) 
+   Violation between Matched Net Lengths: Between Net N5 And Net P5 Length:848.92mil is not within 400mil tolerance of Length:1585.471mil (336.552mil short) 
+   Violation between Matched Net Lengths: Between Net P1 And Net P5 Length:888.29mil is not within 400mil tolerance of Length:1585.471mil (297.181mil short) 
+   Violation between Matched Net Lengths: Between Net P3 And Net P5 Length:687.503mil is not within 400mil tolerance of Length:1585.471mil (497.969mil short) 
+   Violation between Matched Net Lengths: Between Net P4 And Net P5 Length:628.447mil is not within 400mil tolerance of Length:1585.471mil (557.024mil short) 
+   Violation between Matched Net Lengths: Between Net P5 And Net R1 Length:785.928mil is not within 400mil tolerance of Length:1585.471mil (399.544mil short) 
+   Violation between Matched Net Lengths: Between Net P5 And Net R2 Length:726.873mil is not within 400mil tolerance of Length:1585.471mil (458.599mil short) 
+   Violation between Matched Net Lengths: Between Net P5 And Net R3 Length:868.605mil is not within 400mil tolerance of Length:1585.471mil (316.866mil short) 
+   Violation between Matched Net Lengths: Between Net P5 And Net T2 Length:888.29mil is not within 400mil tolerance of Length:1585.471mil (297.182mil short) 
+   Violation between Matched Net Lengths: Between Net P5 And Net T3 Length:726.872mil is not within 400mil tolerance of Length:1585.471mil (458.599mil short) 
+   Violation between Matched Net Lengths: Between Net P5 And Net T4 Length:667.817mil is not within 400mil tolerance of Length:1585.471mil (517.654mil short) 
+Rule Violations :18
+
+Processing Rule : Matched Lengths(Tolerance=400mil) (InNet('AD15_P'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=400mil) (InNet('AD15_N'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=400mil) (InNet('AD14_N'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=150mil) (InNet('USB_DATA_P'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=25mil) (InNetClass('DDR_DATA(0-7)'))
+   Violation between Matched Net Lengths: Between Net DQ0 And Net DQ5 Length:759.067mil is not within 25mil tolerance of Length:1481.327mil (697.26mil short) 
+   Violation between Matched Net Lengths: Between Net DQ1 And Net DQ5 Length:928.035mil is not within 25mil tolerance of Length:1481.327mil (528.293mil short) 
+   Violation between Matched Net Lengths: Between Net DQ2 And Net DQ5 Length:478.619mil is not within 25mil tolerance of Length:1481.327mil (977.708mil short) 
+   Violation between Matched Net Lengths: Between Net DQ3 And Net DQ5 Length:1261.522mil is not within 25mil tolerance of Length:1481.327mil (194.805mil short) 
+   Violation between Matched Net Lengths: Between Net DQ4 And Net DQ5 Length:500.324mil is not within 25mil tolerance of Length:1481.327mil (956.003mil short) 
+   Violation between Matched Net Lengths: Between Net DQ5 And Net DQ6 Length:523.318mil is not within 25mil tolerance of Length:1481.327mil (933.009mil short) 
+   Violation between Matched Net Lengths: Between Net DQ5 And Net DQ7 Length:913.515mil is not within 25mil tolerance of Length:1481.327mil (542.812mil short) 
+Rule Violations :7
+
+Processing Rule : Matched Lengths(Tolerance=20mil) (InNetClass('DDR_ADD/CMD'))
+   Violation between Matched Net Lengths: Between Net ADD0 And Net ADD4 Length:1323.1mil is not within 20mil tolerance of Length:1597.161mil (254.061mil short) 
+   Violation between Matched Net Lengths: Between Net ADD1 And Net ADD4 Length:1569.316mil is not within 20mil tolerance of Length:1597.161mil (7.844mil short) 
+   Violation between Matched Net Lengths: Between Net ADD10 And Net ADD4 Length:1430.058mil is not within 20mil tolerance of Length:1597.161mil (147.102mil short) 
+   Violation between Matched Net Lengths: Between Net ADD11 And Net ADD4 Length:1561.443mil is not within 20mil tolerance of Length:1597.161mil (15.718mil short) 
+   Violation between Matched Net Lengths: Between Net ADD12 And Net ADD4 Length:1457.696mil is not within 20mil tolerance of Length:1597.161mil (119.465mil short) 
+   Violation between Matched Net Lengths: Between Net ADD13 And Net ADD4 Length:1478.592mil is not within 20mil tolerance of Length:1597.161mil (98.569mil short) 
+   Violation between Matched Net Lengths: Between Net ADD14 And Net ADD4 Length:1369.177mil is not within 20mil tolerance of Length:1597.161mil (207.984mil short) 
+   Violation between Matched Net Lengths: Between Net ADD2 And Net ADD4 Length:1446.473mil is not within 20mil tolerance of Length:1597.161mil (130.688mil short) 
+   Violation between Matched Net Lengths: Between Net ADD3 And Net ADD4 Length:1443.311mil is not within 20mil tolerance of Length:1597.161mil (133.85mil short) 
+   Violation between Matched Net Lengths: Between Net ADD4 And Net ADD5 Length:1396.067mil is not within 20mil tolerance of Length:1597.161mil (181.094mil short) 
+   Violation between Matched Net Lengths: Between Net ADD4 And Net ADD7 Length:1291.167mil is not within 20mil tolerance of Length:1597.161mil (285.994mil short) 
+   Violation between Matched Net Lengths: Between Net ADD4 And Net ADD8 Length:1314.815mil is not within 20mil tolerance of Length:1597.161mil (262.346mil short) 
+   Violation between Matched Net Lengths: Between Net ADD4 And Net ADD9 Length:1293.328mil is not within 20mil tolerance of Length:1597.161mil (283.833mil short) 
+   Violation between Matched Net Lengths: Between Net ADD4 And Net BA0 Length:879.654mil is not within 20mil tolerance of Length:1597.161mil (697.507mil short) 
+   Violation between Matched Net Lengths: Between Net ADD4 And Net BA1 Length:1096.19mil is not within 20mil tolerance of Length:1597.161mil (480.971mil short) 
+   Violation between Matched Net Lengths: Between Net ADD4 And Net BA2 Length:413.574mil is not within 20mil tolerance of Length:1597.161mil (1163.587mil short) 
+   Violation between Matched Net Lengths: Between Net ADD4 And Net C\A\S\ Length:310.871mil is not within 20mil tolerance of Length:1597.161mil (1266.29mil short) 
+   Violation between Matched Net Lengths: Between Net ADD4 And Net R\A\S\ Length:436.354mil is not within 20mil tolerance of Length:1597.161mil (1140.807mil short) 
+   Violation between Matched Net Lengths: Between Net ADD4 And Net W\E\ Length:441.241mil is not within 20mil tolerance of Length:1597.161mil (1135.92mil short) 
+Rule Violations :19
+
+Processing Rule : Matched Lengths(Tolerance=200mil) (InNet('ADC_IN_P'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=25mil) (InNetClass('DDR_DATA(8-15)'))
+   Violation between Matched Net Lengths: Between Net DQ10 And Net DQ8 Length:935.021mil is not within 25mil tolerance of Length:1094.363mil (134.343mil short) 
+   Violation between Matched Net Lengths: Between Net DQ11 And Net DQ8 Length:542.496mil is not within 25mil tolerance of Length:1094.363mil (526.867mil short) 
+   Violation between Matched Net Lengths: Between Net DQ12 And Net DQ8 Length:738.538mil is not within 25mil tolerance of Length:1094.363mil (330.826mil short) 
+   Violation between Matched Net Lengths: Between Net DQ13 And Net DQ8 Length:538.178mil is not within 25mil tolerance of Length:1094.363mil (531.186mil short) 
+   Violation between Matched Net Lengths: Between Net DQ14 And Net DQ8 Length:808.532mil is not within 25mil tolerance of Length:1094.363mil (260.831mil short) 
+   Violation between Matched Net Lengths: Between Net DQ15 And Net DQ8 Length:535.589mil is not within 25mil tolerance of Length:1094.363mil (533.774mil short) 
+   Violation between Matched Net Lengths: Between Net DQ8 And Net DQ9 Length:520.519mil is not within 25mil tolerance of Length:1094.363mil (548.844mil short) 
+Rule Violations :7
+
+Processing Rule : Matched Lengths(Tolerance=150mil) (InNetClass('FLASH_SPI'))
+   Violation between Matched Net Lengths: Between Net QSPI_\C\S\ And Net QSPI_CCLK Length:0mil is not within 150mil tolerance of Length:2847.515mil (2697.515mil short) 
+   Violation between Matched Net Lengths: Between Net QSPI_CCLK And Net QSPI_DATA0 Length:2686.067mil is not within 150mil tolerance of Length:2847.515mil (11.448mil short) 
+   Violation between Matched Net Lengths: Between Net QSPI_CCLK And Net QSPI_DATA1 Length:2512.5mil is not within 150mil tolerance of Length:2847.515mil (185.015mil short) 
+   Violation between Matched Net Lengths: Between Net QSPI_CCLK And Net QSPI_DATA2 Length:0mil is not within 150mil tolerance of Length:2847.515mil (2697.515mil short) 
+   Violation between Matched Net Lengths: Between Net QSPI_CCLK And Net QSPI_DATA3 Length:0mil is not within 150mil tolerance of Length:2847.515mil (2697.515mil short) 
+Rule Violations :5
+
+Processing Rule : Matched Lengths(Tolerance=400mil) (InNetClass('FPGA_BANK14'))
+   Violation between Matched Net Lengths: Between Net K5 And Net N13 Length:1197.266mil is not within 400mil tolerance of Length:1664.212mil (66.945mil short) 
+   Violation between Matched Net Lengths: Between Net K5 And Net P13 Length:1177.581mil is not within 400mil tolerance of Length:1664.212mil (86.63mil short) 
+   Violation between Matched Net Lengths: Between Net K5 And Net R15 Length:799.628mil is not within 400mil tolerance of Length:1664.212mil (464.583mil short) 
+   Violation between Matched Net Lengths: Between Net K5 And Net R16 Length:779.943mil is not within 400mil tolerance of Length:1664.212mil (484.268mil short) 
+   Violation between Matched Net Lengths: Between Net K5 And Net T14 Length:858.683mil is not within 400mil tolerance of Length:1664.212mil (405.528mil short) 
+   Violation between Matched Net Lengths: Between Net K5 And Net T15 Length:838.999mil is not within 400mil tolerance of Length:1664.212mil (425.213mil short) 
+Rule Violations :6
+
+Processing Rule : Matched Lengths(Tolerance=20mil) (InNetClass('DDR_CTRL'))
+   Violation between Matched Net Lengths: Between Net C\S\ And Net CKE Length:104.549mil is not within 20mil tolerance of Length:641.841mil (517.292mil short) 
+   Violation between Matched Net Lengths: Between Net CKE And Net D\D\R\_\R\E\S\E\T\ Length:395.585mil is not within 20mil tolerance of Length:641.841mil (226.256mil short) 
+   Violation between Matched Net Lengths: Between Net CKE And Net LDM Length:494.22mil is not within 20mil tolerance of Length:641.841mil (127.62mil short) 
+   Violation between Matched Net Lengths: Between Net CKE And Net ODT Length:290.526mil is not within 20mil tolerance of Length:641.841mil (331.314mil short) 
+   Violation between Matched Net Lengths: Between Net CKE And Net UDM Length:385.84mil is not within 20mil tolerance of Length:641.841mil (236.001mil short) 
+Rule Violations :5
+
+Processing Rule : Matched Lengths(Tolerance=100mil) (InNetClass('EEPROM_SIGNALS'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=1mil) (InNet('UDQS_N'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=1mil) (InNet('UDQS_P'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=200mil) (InNet('IN_Filter_ADC_P'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=200mil) (InNet('IN_Filter_ADC_N'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=1mil) (InNet('CK_P'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=1mil) (InNet('CK_N'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=1mil) (InNet('LDQS_N'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=1mil) (InNet('LDQS_P'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=400mil) (InNet('L15_N'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=400mil) (InNet('L19_N'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=400mil) (InNet('L22_P'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=400mil) (InNet('L12_P'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=400mil) (InNet('L23_N'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=200mil) (InNet('ADC_IN_N'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=400mil) (InNet('L21_N'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Delay Tolerance=200ps) (InNet('USB_DATA_N'))
+Rule Violations :0
+
+
+Violations Detected : 67
+Waived Violations : 0
+Time Elapsed        : 00:00:01

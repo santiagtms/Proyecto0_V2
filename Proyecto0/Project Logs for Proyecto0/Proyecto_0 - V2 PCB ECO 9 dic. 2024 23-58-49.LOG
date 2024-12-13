@@ -1,0 +1,14 @@
+Added Class: Name=100MHz
+Added Class: Name=Bank_14
+Added Class: Name=BANK_34
+Added Class: Name=Bank_35
+Added Class: Name=DDR_ADD/CMD
+Added Class: Name=DDR_CTRL
+Added Class: Name=DDR_DATA(0-7)
+Added Class: Name=DDR_DATA(8-15)
+Added Class: Name=FLASH_SPI_T
+Added Class: Name=FLASH_SPI
+Added Class: Name=FPGA_CONFIG_SIGNALS_1
+Added Class: Name=FPGA_CONFIG_SIGNALS_2
+Added Class: Name=FPGA_UART_SIGNALS
+Added Class: Name=Leds&ResetButton
