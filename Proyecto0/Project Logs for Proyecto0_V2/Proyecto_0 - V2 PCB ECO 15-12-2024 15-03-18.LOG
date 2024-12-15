@@ -1,0 +1,4 @@
+Removed Member From Class: ClassName=DDR_CTRL Member=LDM
+Removed Member From Class: ClassName=DDR_CTRL Member=UDM
+Added Class: Name=DDR_CLK
+Added Class: Name=DDR_DATA
