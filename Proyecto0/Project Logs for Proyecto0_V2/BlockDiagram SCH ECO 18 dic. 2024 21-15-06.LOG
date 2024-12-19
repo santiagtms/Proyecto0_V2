@@ -1,0 +1,15 @@
+Change Pin Designator/Name:  Old Designator=U4C-A14 Old Name=IO_L7N_T1_AD2N_15 New Designator =IO_L15N_T2_DQS_ADV_B_15 New Name=D15
+Change Pin Designator/Name:  Old Designator=U4C-B14 Old Name=IO_L8N_T1_AD10N_15 New Designator =IO_L17P_T2_A26_15 New Name=E16
+Change Pin Designator/Name:  Old Designator=U4C-A13 Old Name=IO_L7P_T1_AD2P_15 New Designator =IO_L18N_T2_A23_15 New Name=E15
+Change Pin Designator/Name:  Old Designator=U4C-B16 Old Name=IO_L10N_T1_AD11N_15 New Designator =IO_L3N_T0_DQS_AD1N_15 New Name=A10
+Change Pin Designator/Name:  Old Designator=U4C-E15 Old Name=IO_L18N_T2_A23_15 New Designator =IO_L9N_T1_DQS_AD3N_15 New Name=A15
+Change Pin Designator/Name:  Old Designator=U4C-A15 Old Name=IO_L9N_T1_DQS_AD3N_15 New Designator =IO_L2P_T0_AD8P_15 New Name=A8
+Change Pin Designator/Name:  Old Designator=U4C-D16 Old Name=IO_L17N_T2_A25_15 New Designator =IO_L7N_T1_AD2N_15 New Name=A14
+Change Pin Designator/Name:  Old Designator=U4C-B15 Old Name=IO_L9P_T1_DQS_AD3P_15 New Designator =IO_L2N_T0_AD8N_15 New Name=A9
+Change Pin Designator/Name:  Old Designator=U4C-D15 Old Name=IO_L15N_T2_DQS_ADV_B_15 New Designator =IO_L7P_T1_AD2P_15 New Name=A13
+Change Pin Designator/Name:  Old Designator=U4C-C16 Old Name=IO_L10P_T1_AD11P_15 New Designator =IO_L5N_T0_AD9N_15 New Name=A12
+Change Pin Designator/Name:  Old Designator=U4C-E16 Old Name=IO_L17P_T2_A26_15 New Designator =IO_L10N_T1_AD11N_15 New Name=B16
+Change Pin Designator/Name:  Old Designator=U4C-A12 Old Name=IO_L5N_T0_AD9N_15 New Designator =IO_L9P_T1_DQS_AD3P_15 New Name=B15
+Change Pin Designator/Name:  Old Designator=U4C-A10 Old Name=IO_L3N_T0_DQS_AD1N_15 New Designator =IO_L8N_T1_AD10N_15 New Name=B14
+Change Pin Designator/Name:  Old Designator=U4C-A8 Old Name=IO_L2P_T0_AD8P_15 New Designator =IO_L10P_T1_AD11P_15 New Name=C16
+Change Pin Designator/Name:  Old Designator=U4C-A9 Old Name=IO_L2N_T0_AD8N_15 New Designator =IO_L17N_T2_A25_15 New Name=D16

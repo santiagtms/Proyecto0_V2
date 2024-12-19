@@ -1,0 +1,1 @@
+InNetClass('DDR_ADD/CMD') or InNetClass('DDR_CLK') or InNetClass('DDR_CTRL')or InNetClass('DDR_DATA')
