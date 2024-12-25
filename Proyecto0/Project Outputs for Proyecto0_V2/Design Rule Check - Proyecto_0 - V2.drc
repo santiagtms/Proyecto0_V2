@@ -1,0 +1,100 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\santi\OneDrive\Documentos\PCB_Design\Proyecto0_V2\Proyecto0\Proyecto_0 - V2.PcbDoc
+Date     : 25/12/2024
+Time     : 18:10:44
+
+WARNING: Multilayer Pads with 0 size Hole found
+   Pad Free-F(236.22mil,1653.543mil) on Multi-Layer
+   Pad Free-F(2440.945mil,1528.11mil) on Multi-Layer
+   Pad Free-F(2440.945mil,243.543mil) on Multi-Layer
+   Pad Free-F(243.543mil,118.11mil) on Multi-Layer
+
+Processing Rule : Clearance Constraint (Gap=20mil) (InAnyDifferentialPair),(not InAnyDifferentialPair)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=2mil) (All),(All)
+   Violation between Clearance Constraint: (1.73mil < 2mil) Between Pad C70-2(1950mil,877mil) on BOT And Via (1967.456mil,864.28mil) from TOP to BOT 
+   Violation between Clearance Constraint: (1.879mil < 2mil) Between Pad C79-2(2173.354mil,910mil) on BOT And Via (2156.433mil,895.776mil) from TOP to BOT 
+   Violation between Clearance Constraint: (0.889mil < 2mil) Between Split Plane  (+1V25_VREF_ADC) on VDD[2] And Split Plane  (AGND) on VDD[2] 
+   Violation between Clearance Constraint: (0.943mil < 2mil) Between Track (1243.732mil,1076mil)(1377mil,1209.268mil) on Signal[1] And Via (1349.15mil,1167.489mil) from TOP to BOT 
+   Violation between Clearance Constraint: (0.884mil < 2mil) Between Track (1377mil,1256.845mil)(1567.155mil,1447mil) on Signal[1] And Via (1485mil,1351mil) from TOP to BOT 
+   Violation between Clearance Constraint: (1.517mil < 2mil) Between Track (1614mil,964mil)(1869mil,709mil) on Signal[2] And Via (1628mil,935.26mil) from TOP to BOT 
+   Violation between Clearance Constraint: (1.189mil < 2mil) Between Via (1018mil,166mil) from TOP to BOT And Via (1031mil,166mil) from TOP to BOT 
+   Violation between Clearance Constraint: (1.189mil < 2mil) Between Via (1031.799mil,814mil) from TOP to BOT And Via (1044.799mil,814mil) from TOP to BOT 
+   Violation between Clearance Constraint: (1.189mil < 2mil) Between Via (1117mil,849.45mil) from TOP to BOT And Via (1117mil,862.45mil) from TOP to BOT 
+   Violation between Clearance Constraint: (1.189mil < 2mil) Between Via (774mil,166mil) from TOP to BOT And Via (787mil,166mil) from TOP to BOT 
+   Violation between Clearance Constraint: (1.189mil < 2mil) Between Via (846mil,166mil) from TOP to BOT And Via (859mil,166mil) from TOP to BOT 
+   Violation between Clearance Constraint: (1.189mil < 2mil) Between Via (899mil,166mil) from TOP to BOT And Via (912mil,166mil) from TOP to BOT 
+   Violation between Clearance Constraint: (1.189mil < 2mil) Between Via (954mil,166mil) from TOP to BOT And Via (967mil,166mil) from TOP to BOT 
+Rule Violations :13
+
+Processing Rule : Clearance Constraint (Gap=20mil) (InAnyDifferentialPair),(InAnyDifferentialPair)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=25mil) (InNetClass('DDR_DATA'))
+   Violation between Matched Net Lengths: Between Net DQ0 And Net DQ10 Length:610.038mil is not within 25mil tolerance of Length:1088.498mil (453.461mil short) 
+   Violation between Matched Net Lengths: Between Net DQ1 And Net DQ10 Length:814.605mil is not within 25mil tolerance of Length:1088.498mil (248.893mil short) 
+   Violation between Matched Net Lengths: Between Net DQ10 And Net DQ11 Length:570.332mil is not within 25mil tolerance of Length:1088.498mil (493.166mil short) 
+   Violation between Matched Net Lengths: Between Net DQ10 And Net DQ12 Length:1046.14mil is not within 25mil tolerance of Length:1088.498mil (17.358mil short) 
+   Violation between Matched Net Lengths: Between Net DQ10 And Net DQ13 Length:605.329mil is not within 25mil tolerance of Length:1088.498mil (458.17mil short) 
+   Violation between Matched Net Lengths: Between Net DQ10 And Net DQ14 Length:1033.89mil is not within 25mil tolerance of Length:1088.498mil (29.609mil short) 
+   Violation between Matched Net Lengths: Between Net DQ10 And Net DQ15 Length:773.84mil is not within 25mil tolerance of Length:1088.498mil (289.659mil short) 
+   Violation between Matched Net Lengths: Between Net DQ10 And Net DQ2 Length:495.153mil is not within 25mil tolerance of Length:1088.498mil (568.346mil short) 
+   Violation between Matched Net Lengths: Between Net DQ10 And Net DQ3 Length:741.647mil is not within 25mil tolerance of Length:1088.498mil (321.852mil short) 
+   Violation between Matched Net Lengths: Between Net DQ10 And Net DQ4 Length:539.195mil is not within 25mil tolerance of Length:1088.498mil (524.304mil short) 
+   Violation between Matched Net Lengths: Between Net DQ10 And Net DQ5 Length:797.666mil is not within 25mil tolerance of Length:1088.498mil (265.832mil short) 
+   Violation between Matched Net Lengths: Between Net DQ10 And Net DQ6 Length:535.913mil is not within 25mil tolerance of Length:1088.498mil (527.585mil short) 
+   Violation between Matched Net Lengths: Between Net DQ10 And Net DQ7 Length:647.005mil is not within 25mil tolerance of Length:1088.498mil (416.494mil short) 
+   Violation between Matched Net Lengths: Between Net DQ10 And Net DQ8 Length:955.087mil is not within 25mil tolerance of Length:1088.498mil (108.411mil short) 
+   Violation between Matched Net Lengths: Between Net DQ10 And Net DQ9 Length:562.592mil is not within 25mil tolerance of Length:1088.498mil (500.907mil short) 
+   Violation between Matched Net Lengths: Between Net DQ10 And Net LDM Length:736.169mil is not within 25mil tolerance of Length:1088.498mil (327.33mil short) 
+   Violation between Matched Net Lengths: Between Net DQ10 And Net LDQS_N Length:698.453mil is not within 25mil tolerance of Length:1088.498mil (365.046mil short) 
+   Violation between Matched Net Lengths: Between Net DQ10 And Net LDQS_P Length:692.865mil is not within 25mil tolerance of Length:1088.498mil (370.634mil short) 
+   Violation between Matched Net Lengths: Between Net DQ10 And Net UDM Length:570.289mil is not within 25mil tolerance of Length:1088.498mil (493.209mil short) 
+   Violation between Matched Net Lengths: Between Net DQ10 And Net UDQS_N Length:762.245mil is not within 25mil tolerance of Length:1088.498mil (301.253mil short) 
+   Violation between Matched Net Lengths: Between Net DQ10 And Net UDQS_P Length:757.601mil is not within 25mil tolerance of Length:1088.498mil (305.897mil short) 
+Rule Violations :21
+
+Processing Rule : Matched Lengths(Tolerance=25mil) (InNetClass('DDR_ADD/CMD') OR InNetClass('DDR_CLK'))
+   Violation between Matched Net Lengths: Between Net ADD0 And Net ADD4 Length:850.62mil is not within 25mil tolerance of Length:1652.793mil (777.173mil short) 
+   Violation between Matched Net Lengths: Between Net ADD1 And Net ADD4 Length:1299.181mil is not within 25mil tolerance of Length:1652.793mil (328.612mil short) 
+   Violation between Matched Net Lengths: Between Net ADD10 And Net ADD4 Length:1361.045mil is not within 25mil tolerance of Length:1652.793mil (266.748mil short) 
+   Violation between Matched Net Lengths: Between Net ADD11 And Net ADD4 Length:993.604mil is not within 25mil tolerance of Length:1652.793mil (634.189mil short) 
+   Violation between Matched Net Lengths: Between Net ADD12 And Net ADD4 Length:1234.848mil is not within 25mil tolerance of Length:1652.793mil (392.945mil short) 
+   Violation between Matched Net Lengths: Between Net ADD13 And Net ADD4 Length:812.992mil is not within 25mil tolerance of Length:1652.793mil (814.8mil short) 
+   Violation between Matched Net Lengths: Between Net ADD14 And Net ADD4 Length:864.072mil is not within 25mil tolerance of Length:1652.793mil (763.721mil short) 
+   Violation between Matched Net Lengths: Between Net ADD2 And Net ADD4 Length:744.856mil is not within 25mil tolerance of Length:1652.793mil (882.937mil short) 
+   Violation between Matched Net Lengths: Between Net ADD3 And Net ADD4 Length:748.967mil is not within 25mil tolerance of Length:1652.793mil (878.826mil short) 
+   Violation between Matched Net Lengths: Between Net ADD4 And Net ADD5 Length:676.078mil is not within 25mil tolerance of Length:1652.793mil (951.715mil short) 
+   Violation between Matched Net Lengths: Between Net ADD4 And Net ADD6 Length:995.158mil is not within 25mil tolerance of Length:1652.793mil (632.635mil short) 
+   Violation between Matched Net Lengths: Between Net ADD4 And Net ADD7 Length:707.303mil is not within 25mil tolerance of Length:1652.793mil (920.49mil short) 
+   Violation between Matched Net Lengths: Between Net ADD4 And Net ADD8 Length:1036.165mil is not within 25mil tolerance of Length:1652.793mil (591.628mil short) 
+   Violation between Matched Net Lengths: Between Net ADD4 And Net ADD9 Length:715.87mil is not within 25mil tolerance of Length:1652.793mil (911.923mil short) 
+   Violation between Matched Net Lengths: Between Net ADD4 And Net BA0 Length:963.141mil is not within 25mil tolerance of Length:1652.793mil (664.652mil short) 
+   Violation between Matched Net Lengths: Between Net ADD4 And Net BA1 Length:1476.363mil is not within 25mil tolerance of Length:1652.793mil (151.429mil short) 
+   Violation between Matched Net Lengths: Between Net ADD4 And Net BA2 Length:771.117mil is not within 25mil tolerance of Length:1652.793mil (856.675mil short) 
+   Violation between Matched Net Lengths: Between Net ADD4 And Net C\A\S\ Length:992.709mil is not within 25mil tolerance of Length:1652.793mil (635.084mil short) 
+   Violation between Matched Net Lengths: Between Net ADD4 And Net CK_N Length:718.59mil is not within 25mil tolerance of Length:1652.793mil (909.203mil short) 
+   Violation between Matched Net Lengths: Between Net ADD4 And Net CK_P Length:719.162mil is not within 25mil tolerance of Length:1652.793mil (908.631mil short) 
+   Violation between Matched Net Lengths: Between Net ADD4 And Net R\A\S\ Length:1020.53mil is not within 25mil tolerance of Length:1652.793mil (607.262mil short) 
+   Violation between Matched Net Lengths: Between Net ADD4 And Net W\E\ Length:983.597mil is not within 25mil tolerance of Length:1652.793mil (644.195mil short) 
+Rule Violations :22
+
+Processing Rule : Matched Lengths(Tolerance=25mil) (InNetClass('DDR_CTRL') OR InNetClass('DDR_CLK'))
+   Violation between Matched Net Lengths: Between Net C\S\ And Net CKE Length:557.086mil is not within 25mil tolerance of Length:979.565mil (397.479mil short) 
+   Violation between Matched Net Lengths: Between Net CK_N And Net CKE Length:718.59mil is not within 25mil tolerance of Length:979.565mil (235.975mil short) 
+   Violation between Matched Net Lengths: Between Net CK_P And Net CKE Length:719.162mil is not within 25mil tolerance of Length:979.565mil (235.403mil short) 
+   Violation between Matched Net Lengths: Between Net CKE And Net D\D\R\_\R\E\S\E\T\ Length:695.703mil is not within 25mil tolerance of Length:979.565mil (258.861mil short) 
+   Violation between Matched Net Lengths: Between Net CKE And Net ODT Length:584.296mil is not within 25mil tolerance of Length:979.565mil (370.269mil short) 
+Rule Violations :5
+
+Processing Rule : Matched Lengths(Tolerance=20mil) (InDifferentialPairClass('DDR_CK_DIFF'))
+Rule Violations :0
+
+
+Violations Detected : 61
+Waived Violations : 0
+Time Elapsed        : 00:00:02
