@@ -1,0 +1,6 @@
+Change Net Name : Old Net Name=QSPI_DATA0 New Net Name=QSPI_DATA3
+Added Pin To Net: NetName=QSPI_DATA0 Pin=R16-1
+Added Pin To Net: NetName=QSPI_DATA0 Pin=U4-K16
+Added Net: Name=QSPI_DATA0
+Added Member To Class: ClassName=FLASH_SPI_T Member=Wire QSPI_DATA3_T
+Added Member To Class: ClassName=FLASH_SPI Member=Wire QSPI_DATA3

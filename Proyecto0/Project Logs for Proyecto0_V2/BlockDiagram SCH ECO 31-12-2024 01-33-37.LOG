@@ -1,0 +1,17 @@
+Change Net Color : Net Name= C\S\ Old Net Color=RGB(255, 110, 255) New Net Color=Default
+Change Net Color : Net Name= CK_N Old Net Color=Yellow New Net Color=Default
+Change Net Color : Net Name= CK_P Old Net Color=Yellow New Net Color=Default
+Change Net Color : Net Name= CKE Old Net Color=RGB(255, 110, 255) New Net Color=Default
+Change Net Color : Net Name= D\D\R\_\R\E\S\E\T\ Old Net Color=RGB(255, 110, 255) New Net Color=Default
+Change Net Color : Net Name= EEPROM_CLK Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Net Name= EEPROM_CS Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Net Name= EEPROM_DATA Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Net Name= ODT Old Net Color=RGB(255, 110, 255) New Net Color=Default
+Change Net Color : Net Name= QSPI_C\S\ Old Net Color=RGB(255, 110, 255) New Net Color=Default
+Change Net Color : Net Name= QSPI_CLK Old Net Color=RGB(255, 110, 255) New Net Color=Default
+Change Net Color : Net Name= QSPI_DATA0_T Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Net Name= QSPI_DATA1_T Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Net Name= QSPI_DATA2_T Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Net Name= QSPI_DATA3_T Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Net Name= UART_RX Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Net Name= UART_TX Old Net Color=RGB(158, 161, 117) New Net Color=Default

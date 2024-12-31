@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=CONFIG_TDO Pin=U1-28
+Removed Pin From Net: NetName=CONFIG_TDI Pin=U1-29
+Added Pin To Net: NetName=CONFIG_TDI Pin=U1-28
+Added Pin To Net: NetName=CONFIG_TDO Pin=U1-29
+Added Member To Class: ClassName=FPGA_CONFIG_SIGNALS_2 Member=Wire CONFIG_TDI_T

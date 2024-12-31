@@ -1,0 +1,88 @@
+Removed Pin From Net: NetName=UART_RX Pin=CNT4-23
+Removed Pin From Net: NetName=UART_TX Pin=CNT4-24
+Removed Pin From Net: NetName=CONFIG_TDI Pin=CNT4-28
+Removed Pin From Net: NetName=CONFIG_TCK Pin=CNT4-30
+Removed Pin From Net: NetName=CONFIG_TMS Pin=CNT4-31
+Removed Member From Class: ClassName=U_USB_Port_FTT Member=C21
+Removed Member From Class: ClassName=U_Power_Supply Member=C79
+Removed Member From Class: ClassName=U_USB_Port_FTT Member=R13
+Removed Member From Class: ClassName=U_Flash_Memory Member=R16
+Removed Member From Class: ClassName=U_Flash_Memory Member=R18
+Removed Member From Class: ClassName=U_DDR_Memory Member=R25
+Removed Member From Class: ClassName=U_Leds_and_Buttons Member=R25
+Removed Member From Class: ClassName=U_Power_Supply Member=R47
+Removed Member From Class: ClassName=U_Leds_and_Buttons Member=S2
+Added Pin To Net: NetName=UART_TX Pin=CNT4-23
+Added Pin To Net: NetName=UART_RX Pin=CNT4-24
+Added Pin To Net: NetName=CONFIG_TCK Pin=CNT4-28
+Added Pin To Net: NetName=CONFIG_TMS Pin=CNT4-30
+Added Pin To Net: NetName=CONFIG_TDI Pin=CNT4-31
+Change Class Name : Old Net Name=FPGA_CONFIG_SIGNALS_1 New Net Name=FPGA_CONFIG_SIGNALS
+Change Class Name : Old Net Name=FPGA_CONFIG_SIGNALS_2 New Net Name=FPGA_CONFIG_SIGNALS_U
+Added Member To Class: ClassName=U_USB_Port_FTT Member=Component C10 0.1uF
+Added Member To Class: ClassName=U_USB_Port_FTT Member=Component C11 0.1uF
+Added Member To Class: ClassName=U_USB_Port_FTT Member=Component C12 0.1uF
+Added Member To Class: ClassName=U_USB_Port_FTT Member=Component C14 0.1uF
+Added Member To Class: ClassName=U_USB_Port_FTT Member=Component C17 0.1uF
+Added Member To Class: ClassName=U_USB_Port_FTT Member=Component C18 27pF
+Added Member To Class: ClassName=U_USB_Port_FTT Member=Component C19 27pF
+Added Member To Class: ClassName=U_FPGA_Power&Ports Member=Component C22 0.47uF
+Added Member To Class: ClassName=U_FPGA_Power&Ports Member=Component C24 0.47uF
+Added Member To Class: ClassName=U_FPGA_Power&Ports Member=Component C26 4.7uF
+Added Member To Class: ClassName=U_FPGA_Power&Ports Member=Component C28 0.47uF
+Added Member To Class: ClassName=U_FPGA_Power&Ports Member=Component C30 0.47uF
+Added Member To Class: ClassName=U_FPGA_Power&Ports Member=Component C32 4.7uF
+Added Member To Class: ClassName=U_FPGA_Power&Ports Member=Component C34 47uF
+Added Member To Class: ClassName=U_FPGA_Power&Ports Member=Component C36 4.7uF
+Added Member To Class: ClassName=U_FPGA_Power&Ports Member=Component C37 0.47uF
+Added Member To Class: ClassName=U_FPGA_Power&Ports Member=Component C39 0.47uF
+Added Member To Class: ClassName=U_FPGA_Power&Ports Member=Component C41 0.47uF
+Added Member To Class: ClassName=U_FPGA_Power&Ports Member=Component C43 4.7uF
+Added Member To Class: ClassName=U_FPGA_Power&Ports Member=Component C51 0.1uF
+Added Member To Class: ClassName=U_FPGA_Power&Ports Member=Component C52 10uF
+Added Member To Class: ClassName=U_FPGA_Power&Ports Member=Component C54 1nF
+Added Member To Class: ClassName=U_FPGA_Power&Ports Member=Component C56 0.47uF
+Added Member To Class: ClassName=U_FPGA_Power&Ports Member=Component C58 4.7uF
+Added Member To Class: ClassName=U_FPGA_Power&Ports Member=Component C60 100uF
+Added Member To Class: ClassName=U_FPGA_Power&Ports Member=Component C62 47uF
+Added Member To Class: ClassName=U_FPGA_Power&Ports Member=Component C64 0.47uF
+Added Member To Class: ClassName=U_FPGA_Power&Ports Member=Component C66 4.7uF
+Added Member To Class: ClassName=U_FPGA_Power&Ports Member=Component C68 47uF
+Added Member To Class: ClassName=U_DDR_Memory Member=Component C70 0.47uF
+Added Member To Class: ClassName=U_DDR_Memory Member=Component C73 0.47uF
+Added Member To Class: ClassName=U_DDR_Memory Member=Component C76 0.47uF
+Added Member To Class: ClassName=U_DDR_Memory Member=Component C78 1uF
+Added Member To Class: ClassName=U_Power_Supply Member=Component C80 10uF
+Added Member To Class: ClassName=U_Power_Supply Member=Component C82 10uF
+Added Member To Class: ClassName=U_Power_Supply Member=Component C84 0.1uF
+Added Member To Class: ClassName=U_Power_Supply Member=Component C86 47uF
+Added Member To Class: ClassName=U_Power_Supply Member=Component C88 0.1uF
+Added Member To Class: ClassName=U_Power_Supply Member=Component C90 47uF
+Added Member To Class: ClassName=U_Power_Supply Member=Component C92 0.1uF
+Added Member To Class: ClassName=U_Power_Supply Member=Component C98 10uF
+Added Member To Class: ClassName=U_Power_Supply Member=Component C100 1uF
+Added Member To Class: ClassName=U_Power_Supply Member=Component C102 0.1uF
+Added Member To Class: ClassName=U_USB_Port_FTT Member=Component R4 5.1 K
+Added Member To Class: ClassName=U_USB_Port_FTT Member=Component R5 100
+Added Member To Class: ClassName=U_USB_Port_FTT Member=Component R6 10k
+Added Member To Class: ClassName=U_USB_Port_FTT Member=Component R8 10k
+Added Member To Class: ClassName=U_USB_Port_FTT Member=Component R10 12 K
+Added Member To Class: ClassName=U_USB_Port_FTT Member=Component R11 2k
+Added Member To Class: ClassName=U_Flash_Memory Member=Component R12 4.7k
+Added Member To Class: ClassName=U_Flash_Memory Member=Component R14 4.7k
+Added Member To Class: ClassName=U_Flash_Memory Member=Component R15 100
+Added Member To Class: ClassName=U_FPGA_Power&Ports Member=Component R17 165
+Added Member To Class: ClassName=U_DDR_Memory Member=Component R24 240
+Added Member To Class: ClassName=U_Power_Supply Member=Component R26 1K
+Added Member To Class: ClassName=U_Power_Supply Member=Component R28 12.7 K
+Added Member To Class: ClassName=U_Power_Supply Member=Component R30 10 K
+Added Member To Class: ClassName=U_Power_Supply Member=Component R33 10.2k
+Added Member To Class: ClassName=U_Power_Supply Member=Component R34 2.49k
+Added Member To Class: ClassName=U_Power_Supply Member=Component R36 47 K
+Added Member To Class: ClassName=U_Power_Supply Member=Component R38 12.7k
+Added Member To Class: ClassName=U_Power_Supply Member=Component R40 10.2k
+Added Member To Class: ClassName=U_Power_Supply Member=Component R43 10k
+Added Member To Class: ClassName=U_Power_Supply Member=Component R44 4.99k
+Added Member To Class: ClassName=U_Power_Supply Member=Component R46 31.6k
+Added Member To Class: ClassName=U_Leds_and_Buttons Member=Component R48 10k
+Added Member To Class: ClassName=U_Leds_and_Buttons Member=Component S3 PTS526 SK15 SMTR2 LFS

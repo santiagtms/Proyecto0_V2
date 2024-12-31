@@ -1,0 +1,42 @@
+Removed Pin From Net: NetName=UART_RX Pin=CNT4-23
+Removed Pin From Net: NetName=UART_TX Pin=CNT4-24
+Removed Pin From Net: NetName=CONFIG_TDI Pin=CNT4-28
+Removed Pin From Net: NetName=CONFIG_TCK Pin=CNT4-31
+Removed Pin From Net: NetName=CONFIG_TDI_T Pin=R19-1
+Removed Pin From Net: NetName=CONFIG_TCK_T Pin=R19-2
+Removed Pin From Net: NetName=CONFIG_TMS_T Pin=R19-3
+Removed Pin From Net: NetName=CONFIG_TCK Pin=R19-6
+Removed Pin From Net: NetName=CONFIG_TMS Pin=R19-7
+Removed Pin From Net: NetName=CONFIG_TDI Pin=R19-8
+Removed Pin From Net: NetName=CONFIG_TDI Pin=U1-28
+Removed Pin From Net: NetName=CONFIG_TMS Pin=U1-29
+Removed Pin From Net: NetName=CONFIG_TCK Pin=U1-33
+Removed Pin From Net: NetName=CONFIG_TCK_T Pin=U4-L7
+Removed Pin From Net: NetName=CONFIG_TMS_T Pin=U4-M7
+Removed Pin From Net: NetName=CONFIG_TDI_T Pin=U4-N7
+Removed Member From Class: ClassName=U_FPGA_Power&Ports Member=R19
+Added Component: Designator=R?(ArrayResistor-1206)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/panasonic-electronic-components/EXB-38V101JV/256519?s=N4IgTCBcDaIKIA0BCBaAzADgGoEYAMOAUliALoC%2BQA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://industrial.panasonic.com/cdbs/www-data/pdf/AOC0000/AOC0000C14.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Elements"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100 Ohms"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=UART_TX Pin=CNT4-23
+Added Pin To Net: NetName=UART_RX Pin=CNT4-24
+Added Pin To Net: NetName=CONFIG_TCK Pin=CNT4-28
+Added Pin To Net: NetName=CONFIG_TDI Pin=CNT4-31
+Added Pin To Net: NetName=CONFIG_TDI_T Pin=R?-1
+Added Pin To Net: NetName=CONFIG_TCK_T Pin=R?-2
+Added Pin To Net: NetName=CONFIG_TMS_T Pin=R?-3
+Added Pin To Net: NetName=CONFIG_TCK Pin=R?-6
+Added Pin To Net: NetName=CONFIG_TMS Pin=R?-7
+Added Pin To Net: NetName=CONFIG_TDI Pin=R?-8
+Added Pin To Net: NetName=CONFIG_TDI_T Pin=U1-28
+Added Pin To Net: NetName=CONFIG_TMS_T Pin=U1-29
+Added Pin To Net: NetName=CONFIG_TCK_T Pin=U1-33
+Added Pin To Net: NetName=CONFIG_TCK Pin=U4-L7
+Added Pin To Net: NetName=CONFIG_TMS Pin=U4-M7
+Added Pin To Net: NetName=CONFIG_TDI Pin=U4-N7
+Added Member To Class: ClassName=U_USB_Port_FTT Member=Component R? 100

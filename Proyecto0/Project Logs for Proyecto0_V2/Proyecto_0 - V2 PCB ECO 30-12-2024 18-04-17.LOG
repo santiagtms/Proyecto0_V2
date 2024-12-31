@@ -1,0 +1,10 @@
+Change Net Name : Old Net Name=QSPI_DATA1_T New Net Name=QSPI_DATA2_T
+Change Net Name : Old Net Name=QSPI_DATA2_T New Net Name=QSPI_DATA1_T
+Added Member To Class: ClassName=FLASH_SPI_T Member=Wire QSPI_DATA1_T
+Added Room: Name=U_Bank_A-B-C-D
+Added Room: Name=U_DDR_Memory
+Added Room: Name=U_Flash_Memory
+Added Room: Name=U_FPGA_Power&Ports
+Added Room: Name=U_Leds_and_Buttons
+Added Room: Name=U_Power_Supply
+Added Room: Name=U_USB_Port_FTT

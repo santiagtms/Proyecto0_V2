@@ -1,0 +1,3 @@
+Change Net Name : Old Net Name=QSPI_DATA1_T New Net Name=QSPI_DATA2_T
+Change Net Name : Old Net Name=QSPI_DATA2_T New Net Name=QSPI_DATA1_T
+Added Member To Class: ClassName=FLASH_SPI_T Member=Wire QSPI_DATA2_T

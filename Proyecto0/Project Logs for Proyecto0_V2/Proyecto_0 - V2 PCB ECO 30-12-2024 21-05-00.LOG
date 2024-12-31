@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=CONFIG_TDI Pin=R19-6
+Removed Pin From Net: NetName=CONFIG_TCK Pin=R19-8
+Added Pin To Net: NetName=CONFIG_TCK Pin=R19-6
+Change Net Name : Old Net Name=CONFIG_TCK_T New Net Name=CONFIG_TDI_T
+Change Net Name : Old Net Name=CONFIG_TDI_T New Net Name=CONFIG_TCK_T

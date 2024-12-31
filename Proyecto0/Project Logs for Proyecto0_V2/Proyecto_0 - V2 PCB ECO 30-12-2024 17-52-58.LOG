@@ -1,0 +1,30 @@
+Removed Pin From Net: NetName=QSPI_DATA2 Pin=R11-1
+Removed Pin From Net: NetName=QSPI_DATA1_T Pin=R16-2
+Removed Pin From Net: NetName=QSPI_DATA2_T Pin=R16-3
+Removed Pin From Net: NetName=QSPI_DATA2 Pin=R16-6
+Removed Pin From Net: NetName=QSPI_DATA1 Pin=R16-7
+Removed Pin From Net: NetName=QSPI_DATA1 Pin=U3-2
+Removed Pin From Net: NetName=QSPI_DATA2 Pin=U3-3
+Removed Pin From Net: NetName=QSPI_DATA1_T Pin=U4-J14
+Removed Pin From Net: NetName=QSPI_DATA2_T Pin=U4-K15
+Removed Member From Class: ClassName=U_FPGA_Power&Ports Member=R16
+Added Pin To Net: NetName=QSPI_DATA2_T Pin=R11-1
+Added Pin To Net: NetName=QSPI_DATA2 Pin=R16-2
+Added Pin To Net: NetName=QSPI_DATA1 Pin=R16-3
+Added Pin To Net: NetName=QSPI_DATA1_T Pin=R16-6
+Added Pin To Net: NetName=QSPI_DATA2_T Pin=R16-7
+Added Pin To Net: NetName=QSPI_DATA1_T Pin=U3-2
+Added Pin To Net: NetName=QSPI_DATA2_T Pin=U3-3
+Added Pin To Net: NetName=QSPI_DATA1 Pin=U4-J14
+Added Pin To Net: NetName=QSPI_DATA2 Pin=U4-K15
+Change Net Name : Old Net Name=QSPI_DATA0 New Net Name=QSPI_DATA3_T
+Change Net Name : Old Net Name=QSPI_DATA0_T New Net Name=QSPI_DATA0
+Change Net Name : Old Net Name=QSPI_DATA3 New Net Name=QSPI_DATA0_T
+Change Net Name : Old Net Name=QSPI_DATA3_T New Net Name=QSPI_DATA3
+Change Net Color : Old Net Color=RGB(255, 110, 255) New Net Color=RGB(255, 110, 255)
+Change Net Color : Old Net Color=RGB(255, 110, 255) New Net Color=RGB(255, 110, 255)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(158, 161, 117)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(158, 161, 117)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(158, 161, 117)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(158, 161, 117)
+Added Member To Class: ClassName=U_Flash_Memory Member=Component R16 100

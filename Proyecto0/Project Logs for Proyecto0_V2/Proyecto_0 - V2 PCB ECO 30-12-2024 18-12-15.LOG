@@ -1,0 +1,17 @@
+Added Component: Designator=R16(ArrayResistor-1206)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/panasonic-electronic-components/EXB-38V101JV/256519?s=N4IgTCBcDaIKIA0BCBaAzADgGoEYAMOAUliALoC%2BQA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://industrial.panasonic.com/cdbs/www-data/pdf/AOC0000/AOC0000C14.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Elements"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100 Ohms"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=QSPI_DATA0 Pin=R16-1
+Added Pin To Net: NetName=QSPI_DATA1 Pin=R16-2
+Added Pin To Net: NetName=QSPI_DATA2 Pin=R16-3
+Added Pin To Net: NetName=QSPI_DATA3 Pin=R16-4
+Added Pin To Net: NetName=QSPI_DATA3_T Pin=R16-5
+Added Pin To Net: NetName=QSPI_DATA2_T Pin=R16-6
+Added Pin To Net: NetName=QSPI_DATA1_T Pin=R16-7
+Added Pin To Net: NetName=QSPI_DATA0_T Pin=R16-8
+Added Member To Class: ClassName=U_Flash_Memory Member=Component R16 100

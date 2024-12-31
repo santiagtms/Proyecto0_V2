@@ -1,0 +1,6 @@
+Removed Member From Class: ClassName=FLASH_SPI_T Member=QSPI_DATA0
+Removed Member From Class: ClassName=FLASH_SPI_T Member=QSPI_DATA3
+Change Net Name : Old Net Name=QSPI_DATA0_T New Net Name=QSPI_DATA3_T
+Change Net Name : Old Net Name=QSPI_DATA3_T New Net Name=QSPI_DATA0_T
+Added Member To Class: ClassName=FLASH_SPI_T Member=Wire QSPI_DATA0_T
+Added Member To Class: ClassName=FLASH_SPI_T Member=Wire QSPI_DATA3_T

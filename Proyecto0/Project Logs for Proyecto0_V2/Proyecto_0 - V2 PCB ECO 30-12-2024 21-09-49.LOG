@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=CONFIG_TDO Pin=U1-29
+Removed Pin From Net: NetName=CONFIG_TMS Pin=U1-33
+Added Pin To Net: NetName=CONFIG_TMS Pin=U1-29
+Added Pin To Net: NetName=CONFIG_TDO Pin=U1-33

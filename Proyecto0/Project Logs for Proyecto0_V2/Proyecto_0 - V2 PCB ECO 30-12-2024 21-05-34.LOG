@@ -1,0 +1,2 @@
+Added Pin To Net: NetName=CONFIG_TDI Pin=R19-8
+Added Member To Class: ClassName=FPGA_CONFIG_SIGNALS_2 Member=Wire CONFIG_TDI_T
