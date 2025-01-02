@@ -1,15 +1,12 @@
 Protel Design System Design Rule Check
-PCB File : C:\Users\santi\OneDrive\Documentos\PCB_Design\Proyecto0_V2\Proyecto0\Proyecto_0 - V2.PcbDoc
-Date     : 31/12/2024
-Time     : 01:33:15
+PCB File : E:\Santiago\Diseño PCB\Proyecto0_V2\Proyecto0\Proyecto_0 - V2.PcbDoc
+Date     : 2 ene. 2025
+Time     : 01:20:53
 
 WARNING: Multilayer Pads with 0 size Hole found
    Pad Free-F(203mil,1684mil) on Multi-Layer
    Pad Free-F(2459mil,1684mil) on Multi-Layer
    Pad Free-F(2459mil,244mil) on Multi-Layer
-
-Processing Rule : Clearance Constraint (Gap=20mil) (InAnyDifferentialPair),(InAnyDifferentialPair)
-Rule Violations :0
 
 Processing Rule : Clearance Constraint (Gap=4mil) (All),(All)
    Violation between Clearance Constraint: (3.026mil < 4mil) Between Arc (1543.974mil,824mil) on Signal[2] And Track (1561mil,792mil)(1561mil,923.476mil) on Signal[2] 
@@ -50,6 +47,10 @@ Processing Rule : Clearance Constraint (Gap=4mil) (All),(All)
    Violation between Clearance Constraint: (2.618mil < 4mil) Between Arc (2066.606mil,920.108mil) on Signal[2] And Track (2008mil,932mil)(2055mil,932mil) on Signal[2] 
    Violation between Clearance Constraint: (2.618mil < 4mil) Between Arc (2066.606mil,920.108mil) on Signal[2] And Track (2055mil,932mil)(2062mil,939mil) on Signal[2] 
    Violation between Clearance Constraint: (2.268mil < 4mil) Between Arc (2068.001mil,828.022mil) on Signal[2] And Arc (2069.336mil,852.254mil) on Signal[2] 
+   Violation between Clearance Constraint: (3.612mil < 4mil) Between Area Fill (223.612mil,856.658mil) (313.612mil,913.658mil) on TOP And Track (206.362mil,851.362mil)(215mil,860mil) on TOP 
+   Violation between Clearance Constraint: (3.612mil < 4mil) Between Area Fill (223.612mil,856.658mil) (313.612mil,913.658mil) on TOP And Track (215mil,860mil)(215mil,920.142mil) on TOP 
+   Violation between Clearance Constraint: (3mil < 4mil) Between Area Fill (503mil,854mil) (593mil,911mil) on TOP And Track (495mil,812.529mil)(495mil,945.016mil) on TOP 
+   Violation between Clearance Constraint: (3.323mil < 4mil) Between Area Fill (503mil,854mil) (593mil,911mil) on TOP And Track (601.323mil,830mil)(601.323mil,918.142mil) on TOP 
    Violation between Clearance Constraint: (2.522mil < 4mil) Between Pad C30-1(1351.053mil,846.344mil) on BOT And Track (1316.408mil,846.344mil)(1344.448mil,818.303mil) on BOT 
    Violation between Clearance Constraint: (2mil < 4mil) Between Pad C31-1(1191.481mil,1119.094mil) on BOT And Track (1137.192mil,1086.353mil)(1185.693mil,1134.853mil) on BOT 
    Violation between Clearance Constraint: (2mil < 4mil) Between Pad C31-1(1191.481mil,1119.094mil) on BOT And Track (1185.693mil,1134.853mil)(1185.693mil,1244.735mil) on BOT 
@@ -122,7 +123,6 @@ Processing Rule : Clearance Constraint (Gap=4mil) (All),(All)
    Violation between Clearance Constraint: (3.969mil < 4mil) Between Hole of Via (1079mil,851mil) from TOP to BOT And Track (1048.906mil,865.672mil)(1124.583mil,789.994mil) on Signal[2] 
    Violation between Clearance Constraint: (3.753mil < 4mil) Between Track (1057mil,808mil)(1057mil,957mil) on Signal[1] And Track (1066.753mil,803.321mil)(1066.753mil,964.753mil) on Signal[1] 
    Violation between Clearance Constraint: (3.192mil < 4mil) Between Track (1061.924mil,864.692mil)(1096.373mil,864.692mil) on BOT And Track (1074.736mil,846.736mil)(1079mil,851mil) on BOT 
-   Violation between Clearance Constraint: (3.969mil < 4mil) Between Hole of Via (1080mil,1176mil) from TOP to BOT And Track (1061mil,1179.577mil)(1078.571mil,1162.006mil) on Signal[1] 
    Violation between Clearance Constraint: (3.969mil < 4mil) Between Hole of Via (1077.658mil,941.05mil) from TOP to BOT And Track (1066.753mil,803.321mil)(1066.753mil,964.753mil) on Signal[1] 
    Violation between Clearance Constraint: (3.442mil < 4mil) Between Track (1066mil,750.447mil)(1083.284mil,767.73mil) on BOT And Track (1084mil,549mil)(1084mil,755.095mil) on BOT 
    Violation between Clearance Constraint: (3.442mil < 4mil) Between Track (1066mil,750.447mil)(1083.284mil,767.73mil) on BOT And Track (1084mil,755.095mil)(1105.906mil,777mil) on BOT 
@@ -149,13 +149,10 @@ Processing Rule : Clearance Constraint (Gap=4mil) (All),(All)
    Violation between Clearance Constraint: (3.969mil < 4mil) Between Hole of Via (1198.195mil,1050.773mil) from TOP to BOT And Track (1156mil,1024mil)(1197mil,1065mil) on Signal[1] 
    Violation between Clearance Constraint: (3.969mil < 4mil) Between Hole of Via (1161.429mil,1093.206mil) from TOP to BOT And Track (1157.645mil,1074mil)(1187.972mil,1104.327mil) on Signal[1] 
    Violation between Clearance Constraint: (3.969mil < 4mil) Between Hole of Via (1164.094mil,821.304mil) from TOP to BOT And Track (1175mil,355.11mil)(1175mil,879mil) on Signal[1] 
-   Violation between Clearance Constraint: (3.969mil < 4mil) Between Hole of Via (1228.124mil,1132.348mil) from TOP to BOT And Track (1183.965mil,1143.253mil)(1245.253mil,1143.253mil) on Signal[1] 
    Violation between Clearance Constraint: (3.969mil < 4mil) Between Hole of Via (1196.906mil,835.649mil) from TOP to BOT And Track (1186mil,363.795mil)(1186mil,906mil) on Signal[1] 
    Violation between Clearance Constraint: (3.969mil < 4mil) Between Hole of Via (1196.906mil,885.024mil) from TOP to BOT And Track (1186mil,363.795mil)(1186mil,906mil) on Signal[1] 
    Violation between Clearance Constraint: (3.969mil < 4mil) Between Hole of Via (1196.906mil,902.136mil) from TOP to BOT And Track (1186mil,363.795mil)(1186mil,906mil) on Signal[1] 
-   Violation between Clearance Constraint: (3.969mil < 4mil) Between Hole of Via (1176.127mil,1293.115mil) from TOP to BOT And Track (1187.033mil,1216mil)(1187.033mil,1321.033mil) on Signal[1] 
    Violation between Clearance Constraint: (3.969mil < 4mil) Between Hole of Via (1199.985mil,1248.017mil) from TOP to BOT And Track (1192.859mil,1270.566mil)(1247mil,1216.425mil) on Signal[2] 
-   Violation between Clearance Constraint: (3.969mil < 4mil) Between Hole of Via (1228.427mil,1328.583mil) from TOP to BOT And Track (1199.985mil,1315.563mil)(1327.961mil,1443.539mil) on Signal[1] 
    Violation between Clearance Constraint: (2.372mil < 4mil) Between Track (1224mil,686.13mil)(1224mil,793mil) on BOT And Track (1236.872mil,740.146mil)(1238.313mil,738.705mil) on BOT 
    Violation between Clearance Constraint: (3.813mil < 4mil) Between Track (1224mil,686.13mil)(1224mil,793mil) on BOT And Track (1238.313mil,738.705mil)(1272.071mil,738.705mil) on BOT 
    Violation between Clearance Constraint: (3.795mil < 4mil) Between Track (1229.045mil,1087.08mil)(1240.24mil,1087.08mil) on TOP And Track (1232.572mil,1109.428mil)(1245.487mil,1096.513mil) on TOP 
@@ -179,7 +176,6 @@ Processing Rule : Clearance Constraint (Gap=4mil) (All),(All)
    Violation between Clearance Constraint: (2mil < 4mil) Between Track (1360.811mil,1107.189mil)(1441.616mil,1107.189mil) on Signal[2] And Track (1388.811mil,1115.189mil)(1525.811mil,1115.189mil) on Signal[2] 
    Violation between Clearance Constraint: (3.969mil < 4mil) Between Hole of Via (1435mil,1096.284mil) from TOP to BOT And Track (1360.811mil,1107.189mil)(1441.616mil,1107.189mil) on Signal[2] 
    Violation between Clearance Constraint: (3.968mil < 4mil) Between Hole of Via (1390.359mil,660.219mil) from TOP to BOT And Track (1362mil,704mil)(1404.5mil,661.5mil) on Signal[1] 
-   Violation between Clearance Constraint: (3.969mil < 4mil) Between Hole of Via (1390.322mil,936.413mil) from TOP to BOT And Track (1379.417mil,901.417mil)(1379.417mil,974.417mil) on Signal[1] 
    Violation between Clearance Constraint: (2mil < 4mil) Between Track (1388.811mil,1115.189mil)(1525.811mil,1115.189mil) on Signal[2] And Track (1441.616mil,1107.189mil)(1463.431mil,1085.374mil) on Signal[2] 
    Violation between Clearance Constraint: (3.969mil < 4mil) Between Hole of Via (1514.16mil,1126.094mil) from TOP to BOT And Track (1388.811mil,1115.189mil)(1525.811mil,1115.189mil) on Signal[2] 
    Violation between Clearance Constraint: (3.192mil < 4mil) Between Track (1400.583mil,1158mil)(1489mil,1158mil) on Signal[2] And Track (1489.789mil,1170.211mil)(1505.5mil,1154.5mil) on Signal[2] 
@@ -196,7 +192,6 @@ Processing Rule : Clearance Constraint (Gap=4mil) (All),(All)
    Violation between Clearance Constraint: (3.969mil < 4mil) Between Hole of Via (1467.948mil,1096.28mil) from TOP to BOT And Track (1463.431mil,1085.374mil)(1777.103mil,1085.374mil) on Signal[2] 
    Violation between Clearance Constraint: (3.969mil < 4mil) Between Hole of Via (1507.319mil,1096.28mil) from TOP to BOT And Track (1463.431mil,1085.374mil)(1777.103mil,1085.374mil) on Signal[2] 
    Violation between Clearance Constraint: (3.969mil < 4mil) Between Hole of Via (1472.01mil,923.722mil) from TOP to BOT And Track (1471mil,939.095mil)(1471mil,942.397mil) on BOT 
-   Violation between Clearance Constraint: (3.989mil < 4mil) Between Hole of Via (1510.479mil,1248.931mil) from TOP to BOT And Track (1473mil,1196mil)(1635.315mil,1358.315mil) on Signal[1] 
    Violation between Clearance Constraint: (3.969mil < 4mil) Between Hole of Via (1509mil,824mil) from TOP to BOT And Track (1486.295mil,834.905mil)(1686.095mil,834.905mil) on Signal[1] 
    Violation between Clearance Constraint: (3.192mil < 4mil) Between Track (1489.789mil,1170.211mil)(1505.5mil,1154.5mil) on Signal[2] And Track (1489mil,1158mil)(1502mil,1145mil) on Signal[2] 
    Violation between Clearance Constraint: (3.5mil < 4mil) Between Track (1489.789mil,1170.211mil)(1505.5mil,1154.5mil) on Signal[2] And Track (1502mil,1145mil)(1524mil,1145mil) on Signal[2] 
@@ -225,7 +220,6 @@ Processing Rule : Clearance Constraint (Gap=4mil) (All),(All)
    Violation between Clearance Constraint: (2mil < 4mil) Between Track (1524.459mil,961.029mil)(1579.446mil,961.029mil) on Signal[2] And Track (1547.971mil,953.029mil)(1594.094mil,906.905mil) on Signal[2] 
    Violation between Clearance Constraint: (3.969mil < 4mil) Between Hole of Via (1585.37mil,1165.906mil) from TOP to BOT And Track (1525.405mil,1176.811mil)(1608.189mil,1176.811mil) on Signal[2] 
    Violation between Clearance Constraint: (3.969mil < 4mil) Between Hole of Via (1546mil,1206.859mil) from TOP to BOT And Track (1525.469mil,1195.954mil)(1621.907mil,1195.954mil) on Signal[2] 
-   Violation between Clearance Constraint: (3.969mil < 4mil) Between Hole of Via (1585.37mil,1165.906mil) from TOP to BOT And Track (1529.189mil,1176.811mil)(1641.955mil,1176.811mil) on Signal[1] 
    Violation between Clearance Constraint: (2.971mil < 4mil) Between Track (1530.911mil,970mil)(1585.797mil,970mil) on Signal[2] And Track (1579.446mil,961.029mil)(1653.737mil,886.738mil) on Signal[2] 
    Violation between Clearance Constraint: (3.969mil < 4mil) Between Hole of Via (1546.68mil,980.905mil) from TOP to BOT And Track (1530.911mil,970mil)(1585.797mil,970mil) on Signal[2] 
    Violation between Clearance Constraint: (2.189mil < 4mil) Between Track (1531.224mil,1032.189mil)(1656.811mil,1032.189mil) on Signal[2] And Track (1558mil,1024mil)(1580.577mil,1001.423mil) on Signal[2] 
@@ -357,7 +351,6 @@ Processing Rule : Clearance Constraint (Gap=4mil) (All),(All)
    Violation between Clearance Constraint: (3.969mil < 4mil) Between Hole of Via (1084.094mil,774mil) from TOP to BOT And Via (1070.284mil,774mil) from TOP to BOT 
    Violation between Clearance Constraint: (1.189mil < 2mil) Between Via (1117mil,849.45mil) from TOP to BOT And Via (1117mil,862.45mil) from TOP to BOT 
    Violation between Clearance Constraint: (3.969mil < 4mil) Between Hole of Via (1632mil,1127.094mil) from TOP to BOT And Via (1645.712mil,1125.446mil) from TOP to BOT 
-   Violation between Clearance Constraint: (3.969mil < 4mil) Between Hole of Via (1635.998mil,1006.965mil) from TOP to BOT And Via (1636.826mil,1020.751mil) from TOP to BOT 
    Violation between Clearance Constraint: (3.969mil < 4mil) Between Hole of Via (1635mil,1212.094mil) from TOP to BOT And Via (1635mil,1198.284mil) from TOP to BOT 
    Violation between Clearance Constraint: (3.969mil < 4mil) Between Hole of Via (1911.638mil,1494mil) from TOP to BOT And Via (1897.827mil,1494mil) from TOP to BOT 
    Violation between Clearance Constraint: (3.969mil < 4mil) Between Hole of Via (2038mil,1088mil) from TOP to BOT And Via (2038mil,1101.811mil) from TOP to BOT 
@@ -366,18 +359,33 @@ Processing Rule : Clearance Constraint (Gap=4mil) (All),(All)
    Violation between Clearance Constraint: (1.189mil < 2mil) Between Via (846mil,166mil) from TOP to BOT And Via (859mil,166mil) from TOP to BOT 
    Violation between Clearance Constraint: (1.189mil < 2mil) Between Via (899mil,166mil) from TOP to BOT And Via (912mil,166mil) from TOP to BOT 
    Violation between Clearance Constraint: (1.189mil < 2mil) Between Via (954mil,166mil) from TOP to BOT And Via (967mil,166mil) from TOP to BOT 
-Rule Violations :354
+Rule Violations :350
 
 Processing Rule : Clearance Constraint (Gap=20mil) (InAnyDifferentialPair),(not InAnyDifferentialPair)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=20mil) (InAnyDifferentialPair),(InAnyDifferentialPair)
 Rule Violations :0
 
 Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
 Rule Violations :0
 
-Processing Rule : Matched Lengths(Tolerance=25mil) (InNetClass('DDR_CTRL') OR InNetClass('DDR_CLK'))
+Processing Rule : Matched Lengths(Tolerance=20mil) (InDifferentialPairClass('DDR_CK_DIFF'))
 Rule Violations :0
 
-Processing Rule : Matched Lengths(Tolerance=500mil) (InNetClass('FLASH_SPI'))
+Processing Rule : Matched Lengths(Tolerance=20mil) (InNetClass('EEPROM_SIGNALS'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=25mil) (InNetClass('DDR_ADD/CMD') OR InNetClass('DDR_CLK'))
+   Violation between Matched Net Lengths: Between Net ADD7 And Net BA2 Length:1021.096mil is not within 25mil tolerance of Length:1046.625mil (0.529mil short) 
+Rule Violations :1
+
+Processing Rule : Matched Lengths(Tolerance=25mil) (InNetClass('DDR_DATA'))
+   Violation between Matched Net Lengths: Between Net DQ12 And Net UDQS_N Length:1026.224mil is not within 25mil tolerance of Length:1051.317mil (0.093mil short) 
+   Violation between Matched Net Lengths: Between Net DQ5 And Net UDQS_N Length:1020.848mil is not within 25mil tolerance of Length:1051.317mil (5.469mil short) 
+Rule Violations :2
+
+Processing Rule : Matched Lengths(Tolerance=25mil) (InNetClass('DDR_CTRL') OR InNetClass('DDR_CLK'))
 Rule Violations :0
 
 Processing Rule : Matched Lengths(Tolerance=200mil) (InNetClass('FLASH_SPI_T'))
@@ -387,22 +395,10 @@ Processing Rule : Matched Lengths(Tolerance=200mil) (InNetClass('FLASH_SPI_T'))
    Violation between Matched Net Lengths: Between Net QSPI_CLK And Net QSPI_DATA3_T Length:439.087mil is not within 200mil tolerance of Length:1536.262mil (897.176mil short) 
 Rule Violations :4
 
-Processing Rule : Matched Lengths(Tolerance=20mil) (InNetClass('EEPROM_SIGNALS'))
+Processing Rule : Matched Lengths(Tolerance=500mil) (InNetClass('FLASH_SPI'))
 Rule Violations :0
 
-Processing Rule : Matched Lengths(Tolerance=20mil) (InDifferentialPairClass('DDR_CK_DIFF'))
-Rule Violations :0
 
-Processing Rule : Matched Lengths(Tolerance=25mil) (InNetClass('DDR_DATA'))
-   Violation between Matched Net Lengths: Between Net DQ12 And Net UDQS_N Length:1026.224mil is not within 25mil tolerance of Length:1051.317mil (0.093mil short) 
-   Violation between Matched Net Lengths: Between Net DQ5 And Net UDQS_N Length:1021.48mil is not within 25mil tolerance of Length:1051.317mil (4.838mil short) 
-Rule Violations :2
-
-Processing Rule : Matched Lengths(Tolerance=25mil) (InNetClass('DDR_ADD/CMD') OR InNetClass('DDR_CLK'))
-   Violation between Matched Net Lengths: Between Net ADD7 And Net BA2 Length:1021.096mil is not within 25mil tolerance of Length:1046.625mil (0.529mil short) 
-Rule Violations :1
-
-
-Violations Detected : 361
+Violations Detected : 357
 Waived Violations : 0
-Time Elapsed        : 00:00:03
+Time Elapsed        : 00:00:02
